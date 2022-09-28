@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-nothing here...
+This is a try for using github-pages, seems good.
